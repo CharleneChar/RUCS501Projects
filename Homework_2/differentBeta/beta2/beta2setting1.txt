@@ -1,0 +1,1 @@
+beta for momentum: 0.01
